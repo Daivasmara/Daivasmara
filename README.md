@@ -15,7 +15,7 @@
   <img src="https://www.codewars.com/users/Daivasmara/badges/large" />
 </p>
 
-### 🍙 YMLs
+### 🛠️ Configs
 ```yml
 vimrc: https://gist.github.com/Daivasmara/c3e5bbad57c218900ce62c92de8b410f
 Xresources: https://gist.github.com/Daivasmara/246bcbbbb6f2387dc9bad5b72759a63a
@@ -25,7 +25,7 @@ alacritty: https://gist.github.com/Daivasmara/7e02b2de976b8535877cf96dd76a302c
 neofetch: https://gist.github.com/Daivasmara/ef1ae99b845e3f577f9ca4d6527194af
 ```
 
-### 🛠️ Configs
+### 📦 Randoms
 ```yml
 Kensington Expert Trackball: https://github.com/Daivasmara/kensington-expert-trackball-linux-config
 ```

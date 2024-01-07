@@ -5,9 +5,7 @@
 <img src="https://user-images.githubusercontent.com/40700969/212825294-e90936c3-b87d-4b6d-b1ae-8baf713e08c6.png" />
 
 <p align="center">
-  <picture>
-    <img src="https://github-readme-stats-blush-alpha-85.vercel.app/api?username=daivasmara&show_icons=true&theme=chartreuse-dark&include_all_commits=true&show=reviews,prs_merged,prs_merged_percentage&hide=issues&border_color=7fff00" />
-  </picture>
+  <img src="https://github-readme-stats-blush-alpha-85.vercel.app/api?username=daivasmara&show_icons=true&theme=chartreuse-dark&include_all_commits=true&show=reviews,prs_merged,prs_merged_percentage&hide=issues&border_color=7fff00" />
 </p>
 
 <p align="center">

@@ -5,6 +5,12 @@
 <img src="https://user-images.githubusercontent.com/40700969/212825294-e90936c3-b87d-4b6d-b1ae-8baf713e08c6.png" />
 
 <p align="center">
+  <picture>
+    <img src="https://github-readme-stats-blush-alpha-85.vercel.app/api?username=daivasmara&show_icons=true&theme=chartreuse-dark&include_all_commits=true&show=reviews,prs_merged,prs_merged_percentage&hide=issues&border_color=7fff00" />
+  </picture>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/dynamic/json?color=red&label=Honor&query=honor&url=https%3A%2F%2Fwww.codewars.com%2Fapi%2Fv1%2Fusers%2FDaivasmara" />
   <img src="https://img.shields.io/badge/dynamic/json?color=green&label=Kyu&query=ranks.overall.name&url=https%3A%2F%2Fwww.codewars.com%2Fapi%2Fv1%2Fusers%2FDaivasmara" />
   <img src="https://img.shields.io/badge/dynamic/json?color=blue&label=Solved%20Katas&query=codeChallenges.totalCompleted&url=https%3A%2F%2Fwww.codewars.com%2Fapi%2Fv1%2Fusers%2FDaivasmara" />

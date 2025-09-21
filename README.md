@@ -28,6 +28,7 @@ i3status: https://gist.github.com/Daivasmara/b8a4d810a68e7cdd74028252071ca2a5
 alacritty: https://gist.github.com/Daivasmara/7e02b2de976b8535877cf96dd76a302c
 tmux: https://gist.github.com/Daivasmara/bb07eeab7da337473162cb69dea91227
 neofetch: https://gist.github.com/Daivasmara/ef1ae99b845e3f577f9ca4d6527194af
+kinesis-layout: https://gist.github.com/Daivasmara/34a6cfabaec746b958ce9a8c3fd3d74e
 ```
 
 ### 📦 Randoms

@@ -30,6 +30,7 @@
 vimrc: https://gist.github.com/Daivasmara/c3e5bbad57c218900ce62c92de8b410f
 Xresources: https://gist.github.com/Daivasmara/246bcbbbb6f2387dc9bad5b72759a63a
 i3: https://gist.github.com/Daivasmara/132ae77c042de39e77d781d8682e0c69
+aerospace: https://gist.github.com/Daivasmara/e72bb4b287409c14eb8acbc59c0e5f15
 i3status: https://gist.github.com/Daivasmara/b8a4d810a68e7cdd74028252071ca2a5
 alacritty: https://gist.github.com/Daivasmara/7e02b2de976b8535877cf96dd76a302c
 tmux: https://gist.github.com/Daivasmara/bb07eeab7da337473162cb69dea91227
